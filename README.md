@@ -27,7 +27,10 @@
 │   ├── 07-auth.md                  # JWT Auth & RBAC
 │   ├── 08-advanced.md              # Microservices, WebSocket, Scheduling, Config
 │   ├── 09-testing.md               # Unit Test & E2E Test
-│   └── 10-tinh-huong-thuc-te.md    # Câu hỏi tình huống & tips
+│   ├── 10-tinh-huong-thuc-te.md    # Câu hỏi tình huống & tips
+│   ├── 11-system-design.md         # 🔥 System Design (URL Shortener, Chat, Scaling...)
+│   ├── 12-database-expert.md       # 🔥 Database Expert (Indexing, Replication, Redis...)
+│   └── 13-clean-architecture.md    # 🔥 Hexagonal & Clean Architecture
 │
 ├── ReactJS-Interview.md            # File tổng hợp ReactJS (đầy đủ)
 └── NestJS-Interview.md             # File tổng hợp NestJS (đầy đủ)
@@ -59,3 +62,9 @@
 - Guards & Interceptors
 - JWT Authentication
 - TypeORM / Prisma
+
+### System Design & Architecture (Senior)
+- CAP Theorem, Horizontal Scaling
+- Caching Strategies, Database Sharding
+- Clean Architecture, Hexagonal (Ports & Adapters)
+- Database Indexing, Query Optimization, Replication
